@@ -85,7 +85,7 @@ scanf("%d", &opcao);
 // opcao 1 para iniciar o cadastro das cartas.
 
 if (opcao == 1){
-    if(count <2){
+    if(count <32){
         carta[count]=cadastrar_carta();
         count++;
     }else{

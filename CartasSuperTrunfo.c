@@ -104,7 +104,7 @@ if (opcao == 1){
 // caso tenham digitado um valor fora das tres opcoes.
 
     }else {
-        printf("Opcao invalida. Tente novamente.\n");
+        printf("\n\n Opcao invalida. Tente novamente.\n\n");
     }
 
 }
